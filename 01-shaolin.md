@@ -15,6 +15,8 @@
 - [Chapter 3](#chapter-3)
 - [Chapter 4](#chapter-4)
 - [Chapter 5](#chapter-5)
+- [Chapter 6](#chapter-6)
+- [Chapter 7](#chapter-7)
 
 ## About the author
 
@@ -217,3 +219,121 @@ Elora comes up beside him, her face pale. She points to a patch of bushes on the
 Shaolin looks around the clearing again, trying to piece together what happened here. He can't shake the feeling that this has something to do with his father's disappearance, but he can't be sure. Elora puts a hand on his shoulder, and he looks up at her. "We need to go back to town," she says. "We need to tell someone about this."
 
 Shaolin nods, still feeling uneasy. He knows that they can't keep this a secret. Whatever happened here, it's clear that someone is in danger. He hopes that by going to the townspeople, they can figure out what's going on and put a stop to it before anyone else gets hurt.
+
+As Shaolin and Elora prepared to leave the clearing, Shaolin turned to go but something caught his eye. He noticed a small glint coming from the bushes and walked over to investigate. When he reached the bushes, he saw a golden brooch lying on the ground. Shaolin picked up the brooch and examined it closely. It was a small, golden object, intricately crafted with delicate filigree work. The brooch was clearly old, but it was in remarkably good condition. The symbol on it was strange, but somehow familiar to Shaolin. He couldn't quite place it, but it seemed to be connected to his past in some way. Shaolin was fascinated by the brooch and wondered what secrets it held.
+
+Elora walked over to Shaolin after noticing him pick up the brooch. She took the brooch and stared at it intently for a few minutes, a knowing look on her face. Shaolin asked her what it was, and Elora replied, "The symbol on this brooch is the symbol of the Elvanar, an ancient family of elves. They were a powerful and noble people, known for their great wisdom and magical abilities. It is said that they could communicate with the forest itself, and that they had a deep connection to nature. But despite their power, the Elvanar disappeared over a thousand years ago, and no one knows what happened to them. Some say they were cursed by a dark sorcerer, while others believe that they simply chose to retreat deeper into the forest, never to be seen again."
+
+Shaolin was amazed by this information and asked Elora where they might find more information about the Elvanar. After a moment of thought, Elora suggested, "I think we should head to Eriador, a city known for its vast libraries and archives. It's a five day walk, but I'm sure we can find more information about the Elvanar and their history there. We might be able to learn more about the brooch and its significance."
+
+Shaolin agreed, and the two of them set off towards Eriador, eager to learn more about the ancient elven family and the secrets of the brooch they had found.
+
+## Chapter 6
+
+<img style="float: right; margin: 0 0 10px 20px; border-radius:8px" align="right" src="./images/01-shaolin-chapter-06.png" alt="Chapter 6" height="400" />
+
+Shaolin and Elora set off towards Eriador, eager to learn more about the ancient elven family and the secrets of the brooch they had found. As they walked, Shaolin was deep in thought about the Elvanar. He turned to Elora and asked, "What happened to the elves? Where did they disappear to? Nobody has seen them for over a thousand years."
+
+Elora sighed and replied, "It's difficult to say for sure. The stories and legends about the Elvanar are many and varied. Some say they were betrayed and destroyed in a great battle, while others believe that they simply retreated into the depths of the forest, where they remain to this day. The truth is, no one knows what happened to them, and it may be that we will never know."
+
+Shaolin was intrigued by this mystery, and he asked Elora, "But who were the elves at war with? Who could have betrayed them and brought about their downfall?"
+
+Elora shook her head and replied, "That, too, is lost to history. All we have are stories and legends, and it is up to us to decide what is true and what is not."
+
+Shaolin continued walking, contemplating everything that Elora had just told him. He was in awe of the history of the war between the elves and the humans, and he couldn't believe that he had never heard about it before.
+
+"Elora," Shaolin said, breaking the silence. "You mentioned a sorcerer earlier. Who was he? Was he an elf or a human?"
+
+Elora's face grew somber at the mention of the sorcerer. "He was a human, but he was raised and trained by the elves. He lived amongst them, but he turned on his own kind, craving their power."
+
+"What happened to him?" Shaolin asked, curious to know more about this mysterious figure.
+
+"The sorcerer was a powerful man," Elora explained. "He had the ability to control the elements, and he used his powers to defeat the elves in battle. But the cost of victory was high. The sorcerer ultimately destroyed himself in his thirst for power, and his death marked the end of an era."
+
+Shaolin looked at Elora with a confused expression. "I didn't realize that humans could perform magic," he said. "Is that true?"
+
+Elora nodded. "It is true, although it is quite rare for humans to possess the potential for magic. Elves typically do not teach magic to humans, as they are known to be easily corrupted by power."
+
+"I see," Shaolin said, nodding. "That makes sense. But why did the sorcerer you mentioned earlier learn magic? Wasn't he human?"
+
+"Yes, he was human," Elora said. "But he was an exceptional case. The elves saw great potential in him and took him in, training him in the ways of magic. However, his thirst for power ultimately led to his downfall."
+
+Shaolin thought about this for a moment. He couldn't imagine what it would be like to have such incredible powers, and he felt a sense of awe at the thought. But he also couldn't help but feel a sense of caution, knowing that power could easily corrupt those who sought it.
+
+"It's amazing to think that such things are possible," Shaolin said. "But I think it's important to be careful with such power. It can be dangerous in the wrong hands."
+
+Elora nodded in agreement. "I couldn't agree more, Shaolin. That is why it is important to always be mindful of the consequences of our actions, no matter how great the temptation may be."
+
+"Elora," Shaolin said, turning to her. "I was talking to old man O'Neal back in town, and he told me that some of the farmers have reported seeing elves in the forest. Do you think that could be true?"
+
+Elora looked at Shaolin with a skeptical expression. "I highly doubt it," she said. "Elves haven't been spotted in these parts for over a thousand years. If they have started leaving their homeland, things must be dire indeed."
+
+Shaolin nodded, then hesitated. "Actually, I've been meaning to ask you about something," he said. "A few days ago, while I was in the forest, I thought I sensed the presence of something... I don't know, it just felt like... magic. Do you think it could have been elves?"
+
+Elora looked around, a concerned expression on her face. "We need to pick up the pace if we're going to reach the nearest village on our way to Eriador before nightfall. It would be a bad idea to still be in this part of the forest at night."
+
+Shaolin nodded, understanding that Elora didn't want to discuss the matter further. He respected her decision and didn't press the issue, but he couldn't shake the feeling that something strange was going on in the forest. He made a mental note to keep an eye out for any signs of magic as they continued on their journey.
+
+## Chapter 7
+
+<img style="float: right; margin: 0 0 10px 20px; border-radius:8px" align="right" src="./images/01-shaolin-chapter-07.png" alt="Chapter 7" height="400" />
+
+As they continued walking, the forest began to give way to paved roads, signaling that they were getting close to the outskirts of a town. Shaolin and Elora followed one of the roads, and after a few more hours of walking, Shaolin noticed a plume of smoke on the horizon.
+
+"Looks like we're getting close to Willowdale," Shaolin said to Elora, pointing to the smoke.
+
+As they got closer, Shaolin noticed that there was an unusual amount of smoke for it to just be celebrations. "Something isn't right," he said to Elora, his voice filled with concern. "There's too much smoke for it to be celebrations."
+
+Elora nodded, a worried expression on her face. "You're right," she said. "We need to be careful as we approach Willowdale. It's possible that there could be danger ahead."
+
+As Shaolin and Elora got closer to Willowdale, they could see huge plumes of smoke rising from the town, and a strange smell that Shaolin didn't recognize. They knew something was wrong, and they both prepared for whatever was ahead. Elora loosened her sword in its sheath, and Shaolin pulled out his bow, stringing an arrow in case they needed to defend themselves.
+
+"We need to be careful," Elora said to Shaolin, her voice low and urgent. "We don't know what's happening in Willowdale, but it's clear that something is wrong. The plumes of smoke are getting bigger and bigger."
+
+Shaolin nodded, his eyes scanning the area for any signs of danger. "Agreed," he said. "We'll approach cautiously and see what we can find out."
+
+They continued on their way, their senses heightened as they entered the outskirts of Willowdale. As they approached, they noticed an eerie silence. They couldn't hear anyone, nor could they hear the sounds of any animals. Shaolin would have expected to at least hear the birds warning of their presence. Shaolin and Elora exchanged a worried look, both knowing that they were entering a dangerous situation.
+
+Shaolin and Elora walked through the eerily quiet town, nobody in sight. The acrid smell of smoke lingered in the air and the houses were smouldering. They continued walking towards the center of town, which seemed to be the source of the large plume of smoke. They approached it warily, Shaolin with his bow raised and Elora with her sword out.
+
+As they got closer, they could see that the town square was empty, except for a large bonfire at its center. Shaolin and Elora cautiously made their way towards the bonfire, looking around for any signs of danger. But the town remained eerily silent, as if everyone had disappeared.
+
+When they reached the bonfire, to their horror they found a pile of deceased, burning bodies piled high on top of each other ablaze. The sight made Shaolin feel sick to his stomach, and he had to turn away for a moment to compose himself. Elora also looked away, unable to keep her gaze on the gruesome scene.
+
+As Shaolin was looking at the bodies, the hair on the back of his neck tingled and he quickly turned around to stare into the shadows cast by some of the burnt houses. He couldn't shake the feeling that they were being watched, and he could see the same fear in Elora's eyes.
+
+Shaolin stared intently into the shadows, his eyes scanning every nook and cranny for any sign of movement. He could feel the weight of the bow in his hands, ready to act in an instant if necessary. The town was eerily quiet, the only sound the occasional pop and crackle of the smouldering houses.
+
+After a short while, Shaolin noticed a quick flash of silver in the darkness. Almost immediately, a wave of calm washed over him and time seemed to slow. He could see every detail around him, from the tiny flakes of ash floating in the air to the hairs on the back of Elora's neck.
+
+Almost as though it were in slow motion, Shaolin saw an arrow loosed from the shadows headed straight for him. Without hesitation, he nocked an arrow on his bow and fired back into the shadows. The two arrows met in midair with a loud twang, and then both fell to the ground.
+
+Elora, who had been watching the exchange with wide eyes, quickly joined Shaolin in scanning the shadows for their attacker. They could hear the sound of someone running away, and without hesitation, Shaolin set off running after them. He was determined to catch the attacker and bring them to justice, no matter what it took.
+
+Shaolin set off running in the direction the attacker had fled, even though he couldn't see or hear where they had gone. The sense of calm that had washed over him earlier remained, and for some reason he could sense the attacker's location.
+
+He chased the attacker through the narrow streets, his feet pounding against the ground. The attacker was fast, but Shaolin was determined to catch them. Finally, he cornered them in an alley, grabbing them by the arm and spinning them around to face him.
+
+The attacker was a young man, barely more than a teen. He looked up at Shaolin with fear in his eyes, begging for mercy. "I didn't mean to fire the arrow," he said. "I was just trying to scare you."
+
+Shaolin considered the young man's words for a moment, but he didn't believe they were sincere. As he looked at the attacker, he noticed that their pockets were full of amulets and trinkets, some of which had fallen out and lay on the ground. The attacker was covered in ash, and Shaolin realized that they had been robbing the graves of the dead.
+
+He pointed his bow at the attacker, his eyes narrowed in anger. "What happened to the dead villagers?" he demanded. "What did you do to them?"
+
+The attacker let out a sob, and Shaolin could feel their fear and regret. But he knew that he needed answers, and he held his bow steady, waiting for a response.
+
+Shaolin heard a noise behind him and turned to see Elora enter the alley, her sword raised and pointed in the direction of the attacker. "Explain yourself," she demanded.
+
+The attacker was terrified, and they began to babble out a long story. "Two days ago, an army of beasts I didn't recognize stormed through the village and burned everything," they said. "I barely managed to escape with my life. I didn't mean to fire the arrow at you, I was just trying to defend myself."
+
+The attacker went into more detail, describing the monsters that had attacked the village. "They resembled humans, but they were more brutal," they said. "They carried all sorts of weapons, and they were incredibly strong. They cut through the townspeople like they were nothing. I've never seen anything like it."
+
+Shaolin asked the attacker which direction the monsters had come from, and the attacker pointed towards the forest. "They came from the same road you and Elora entered from," they said.
+
+Shaolin's fury grew, and he could feel his heart pounding in his chest. How could this have happened? How could they have let this army of monsters enter the village?
+
+Suddenly, there was a loud noise, and both Shaolin and Elora turned to see a nearby building collapsing. When they turned back to the attacker, they were already scrambling over the wall and running away.
+
+Elora grabbed Shaolin's arm, stopping him from chasing after the attacker. "Let it go," she said. "We need to walk back and take care of the dead."
+
+Shaolin nodded, his anger still boiling inside of him. But he knew that Elora was right, and he followed her back to the village to help the survivors.
